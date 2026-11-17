@@ -4,3 +4,4 @@ This is the public release distribution repository for **TAMVAN Smart Toys Inven
 
 - **App updates manifest**: [version.json](version.json)
 - **Latest Setup**: Available on the [Releases](https://github.com/Nihalcm/tamvan-pos-releases/releases) tab.
+
