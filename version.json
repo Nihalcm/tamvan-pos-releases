@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.1",
-  "currentVersion": "1.0.1",
-  "releaseDate": "2026-11-17",
-  "releaseNotes": "• Upgraded customer selection dialog with real-time SQLite database loading\n• Clean side menu header without redundant logo container\n• Immediate shift reopening state sync with Admin PIN approval\n• Automated Inno Setup installer packaging (v1.0.1)\n• Safe user database retention guarantee",
-  "downloadUrl": "https://github.com/Nihalcm/tamvan-pos-releases/releases/download/v1.0.1/TAMVAN_POS_Setup_v1.0.1.exe",
-  "localInstallerPath": "c:\\toys\\dist\\TAMVAN_POS_Setup_v1.0.1.exe",
+  "latestVersion": "1.0.2",
+  "currentVersion": "1.0.2",
+  "releaseDate": "2026-11-24",
+  "releaseNotes": "• Complete Income Statement (P&L) module matching GL Module Blueprint\n• Trading Account (Gross Profit) and Profit & Loss Account (Net Profit)\n• Multi-period presets, month-by-month comparative analysis, and account drill-down to Ledger Statement\n• Direct 100% Cloud Admin connectivity with isolated background sync for POS\n• Automatic cloud SQL database schema verification & migration on boot\n• Strict credential security (ADM001 / TAM001)\n• Automated Inno Setup installer packaging (v1.0.2)",
+  "downloadUrl": "https://github.com/Nihalcm/tamvan-pos-releases/releases/download/v1.0.2/TAMVAN_POS_Setup_v1.0.2.exe",
+  "localInstallerPath": "c:\\toys\\dist\\TAMVAN_POS_Setup_v1.0.2.exe",
   "isMandatory": false
 }
